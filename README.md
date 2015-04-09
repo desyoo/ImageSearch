@@ -9,10 +9,6 @@ Basic Image Search
  * [x] Required: User can tap on any image in results to see the image full-screen
  * [x] Required: User can scroll down “infinitely” to continue loading more image results (up to 8 pages)
 
- * [ ] Advanced: 
- * [ ] Advanced: 
- * [ ] Advanced: 
- * [ ] Advanced: 
 
 ![Video Walkthrough]()
 
